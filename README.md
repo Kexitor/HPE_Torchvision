@@ -8,7 +8,9 @@ Example of work:
 
 https://github.com/Kexitor/HPE_Torchvision/assets/55799671/21bdbc9e-70a9-462b-b04a-1c55ead0612e
 
+https://youtu.be/_BdMVwT1hZ4
 
+https://www.youtube.com/watch?v=uedp3CnXWmM
 
 <!--## To launch this YOLOv7 required:
 ```
